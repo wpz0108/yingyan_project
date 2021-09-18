@@ -52,3 +52,46 @@ if __name__ == '__main__':
     # ku = ['caiji']
     # 查询列表客户在采集应用库的数据量
     data(khs,type,ku)
+
+
+    """
+    --------------------------
+    caiji 库查询数据
+    --------------------------
+    伍忠民_xx tb_data_cpws --数据量： 21
+    伍忠民_xx tb_data_cpws_party --数据量： 64
+    伍忠民_xx tb_data_zxgg --数据量： 15
+    伍忠民_xx tb_data_zxgg_party --数据量： 15
+    伍忠民_xx tb_data_ktgg --数据量： 7
+    伍忠民_xx tb_data_fygg --数据量： 2
+    伍忠民_xx tb_data_ajlc --数据量： 5
+    伍忠民_xx tb_data_bgt --数据量： 10
+    伍忠民_xx tb_data_ktgg_party --数据量： 19
+    伍忠民_xx tb_data_fygg_party --数据量： 8
+    伍忠民_xx tb_data_ajlc_party --数据量： 16
+    伍忠民_xx tb_data_bgt_party --数据量： 10
+    192
+    王培_xx tb_data_cpws --数据量： 4
+    王培_xx tb_data_cpws_party --数据量： 14
+    18
+    --------------------------
+    hawkeye 库查询数据
+    --------------------------
+    伍忠民_xx tb_data_cpws --数据量： 21
+    伍忠民_xx tb_data_cpws_party --数据量： 64
+    伍忠民_xx tb_data_zxgg --数据量： 15
+    伍忠民_xx tb_data_zxgg_party --数据量： 15
+    伍忠民_xx tb_data_ktgg --数据量： 7
+    伍忠民_xx tb_data_fygg --数据量： 2
+    伍忠民_xx tb_data_ajlc --数据量： 5
+    伍忠民_xx tb_data_bgt --数据量： 10
+    伍忠民_xx tb_data_ktgg_party --数据量： 19
+    伍忠民_xx tb_data_fygg_party --数据量： 8
+    伍忠民_xx tb_data_ajlc_party --数据量： 16
+    伍忠民_xx tb_data_bgt_party --数据量： 10
+    192
+    王培_xx tb_data_cpws --数据量： 4
+    王培_xx tb_data_cpws_party --数据量： 14
+    18
+    
+    """
